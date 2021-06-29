@@ -13,6 +13,7 @@ Maze Solver that takes a maze from standard input where:
 The program then outputs the solved maze path to standard output
 
 Example Input:
+
 ====================
 =.S...==...........=
 ==.==.==..=.==.==.==
@@ -33,6 +34,7 @@ Example Input:
 ====================
 ====================
 ====================
+
 
 Example Output:
 ====================
