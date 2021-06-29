@@ -1,6 +1,6 @@
 # TextMazeSolver
 
-Maze Solver that takes a maze in text form where:
+Maze Solver that takes a maze from standard input where:
 
   wall:                       '='
   
@@ -9,3 +9,5 @@ Maze Solver that takes a maze in text form where:
   start position:             'S'
   
   goal position:              'G'
+
+The program then outputs the solved maze path to standard output
