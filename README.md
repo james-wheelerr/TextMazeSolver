@@ -1,10 +1,11 @@
 # TextMazeSolver
 
 Maze Solver that takes a maze in text form where:
-  wall:                       =
+
+  wall:                       '='
   
-  empty/available space:      .
+  empty/available space:      '.'
   
-  start position:             S
+  start position:             'S'
   
-  goal position:              G
+  goal position:              'G'
